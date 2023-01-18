@@ -19,7 +19,7 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjay-d&show_icons=true&locale=en&layout=compact" alt="dhananjay-d" /></p><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjay-d&show_icons=true&locale=en&layout=compact" alt="dhananjay-d" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhananjay-d&show_icons=true&locale=en" alt="dhananjay-d" /></p>
 
