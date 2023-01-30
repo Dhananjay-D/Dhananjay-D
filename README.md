@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/dhananjay-dharne-663856235/](https://www.linkedin.com/in/dhananjay-dharne-663856235/)
 
-- 💬 Ask me about **C, C++, HTML, CSS, BOOTSTRAP**
+- 💬 Ask me about **C, C++, HTML, CSS, TAILWIND, BOOTSTRAP**
 
 - 📫 How to reach me **dhananjay.dharne09@gmail.com**
 
