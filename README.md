@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dhananjay.dharne09@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QKAJfucirSyRLJYJ9QJIIRDeJKifLzff/view?usp=sharing](https://drive.google.com/file/d/1QKAJfucirSyRLJYJ9QJIIRDeJKifLzff/view?usp=sharing)
+
 
 
 
