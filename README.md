@@ -1,5 +1,5 @@
 # <h1 align="center">Hi, I am Dhananjay Dharne 👋 </h1>
-# <h2 align="center">CSE Undergrad at Kls Gogte Institute Of Technology</h2>
+ <h2 align="center">CSE Undergrad at Kls Gogte Institute Of Technology</h2>
 
 <br>
 🚀 Frontend Developer on a mission to craft delightful web experiences.<br>🎨 Passionate about creating pixel-perfect, user-friendly interfaces.<br>💡 Eager learner embracing the ever-evolving world of web technologies.<br>🤝 Open to collaboration and contribution to open-source projects.<br>🌟 Turning code into art, one line at a time.
